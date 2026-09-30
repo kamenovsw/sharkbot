@@ -4,7 +4,7 @@
     "slug": "SharkBot",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon/icon.png",
+    "icon": "./assets/images/icon.png",
     "scheme": "sharkbot",
     "userInterfaceStyle": "automatic",
     "android": {
